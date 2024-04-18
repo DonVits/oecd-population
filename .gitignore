@@ -1,4 +1,7 @@
-/data/converted/Inflows of foreign population by nationality.xls
-/data/converted/Outflows of foreign population by nationality.xls
-/data/converted/Stock of foreign population by nationality.xls
-/data/converted/Stock of foreign-born population by country of birth.xls
+/data/world.geojson
+/api-key.txt
+/immigration_report.pdf
+/venv/
+/resources/generated-charts/
+/lightning_logs/
+/.ipynb_checkpoints/
