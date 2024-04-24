@@ -10,4 +10,4 @@ scikit-learn
 geopandas
 kaleido
 geopy
-parallel-pandas
+swifter
